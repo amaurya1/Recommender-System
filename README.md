@@ -2,7 +2,7 @@
 Amazon Book Recommender System
 
 #Problem Definition
-In this Assignment, I'm going to use Amazon Product Co-purchase data to make Book Recommendations using Network Analysis. This project has three objectives:
+In this project, I'm going to use Amazon Product Co-purchase data to make Book Recommendations using Network Analysis. This project has three objectives:
 •	Apply Python concepts to read and manipulate data and get it ready for analysis
 •	Apply Network Analysis concepts to Build and Analyze Graphs
 •	Apply concepts in Text Processing, Network Analysis and Recommendation Systems to make a product recommendation
